@@ -1,0 +1,14 @@
+.submit-button:hover , .visit-button:hover
+{
+    box-shadow:5px 3px 0px #888 !important;
+    background-color: #1167c4 !important;
+}
+tr
+{
+    background:linear-gradient(#eee 40% , #fff ) ;
+}
+.delete-button:hover
+{
+    background-color: #910004 !important;
+    box-shadow:5px 3px 0px #888 !important;
+}
